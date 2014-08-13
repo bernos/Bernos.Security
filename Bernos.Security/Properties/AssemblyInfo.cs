@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Bernos.Security")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Helper classes for security related functionality")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Brendan McMahon")]
 [assembly: AssemblyProduct("Bernos.Security")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
